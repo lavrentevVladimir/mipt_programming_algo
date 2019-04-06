@@ -1,1 +1,0 @@
-# mipt_programming_algo
